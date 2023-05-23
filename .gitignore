@@ -4,3 +4,9 @@
 # Junk Files
 .ipynb_checkpoints
 .DS_Store
+
+# Prior Notebook
+notebook_old.ipynb
+
+# Canvas Submission
+git_hub.pdf
