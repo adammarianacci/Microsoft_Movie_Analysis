@@ -19,7 +19,7 @@ They contain data such as movie titles/release date/domestic and worldwide gross
 
 # Data Preperation
 
-Imported neccessary libraries such as pandas and numPy etc. I loaded the all the files (data) properly. I ran various sets of code to preview the data frames and gather general information such as how many entries there were, how many missing values there were, how many columns etc. I cleaned up some of the data so that I could work with it. Some of the data cleaning involved was getting rid of missing data that was a small amount compared to the number of entries there were. Converting dates to proper date formatting, getting rid of commas and dollar signs in some of the data so that I could properly sort it etc. I sorted a lot of the data in certain columns such as "worldwide_gross" from highest to smallest to see what the highest grossing movies were.
+Imported neccessary libraries such as pandas and numPy etc. I loaded all the files (data) properly. I ran various sets of code to preview the data frames and gather general information such as how many entries there were, how many missing values there were, how many columns etc. I cleaned up some of the data so that I could work with it. Some of the data cleaning involved was getting rid of missing data that was a small amount compared to the number of entries there were. Converting dates to proper date formatting, getting rid of commas and dollar signs in some of the data so that I could properly sort it etc. I sorted a lot of the data in certain columns such as "worldwide_gross" from highest to smallest to see what the highest grossing movies were.
 
 # Exploratory Data Analysis
 
@@ -53,5 +53,21 @@ One limitation that I found while investigating the data sets was that there wer
 ## Next Steps
 
 Exploring more data sets is always helpful. The more information we have at our fingertips will only strenghten knowledge on a particular subject and lead to the best course of action. I would look into data sets focusing more on production companies to try and gather more information on what goes into making a successful film. Looking at data sets that have information on how much money went into advertising and also how long the movie was actively advertised for would be crucial to look at to ensure the best steps are being taken to produce a successful movie.
+
+## For More Information
+
+See the full analysis in the [Jupyter Notebook](notebook.ipynb) or review this [presentation](presentation.pdf).
+
+For additional info, please see my repo [here](https://github.com/adammarianacci/Microsoft_Movie_Analysis).
+
+
+## Repository Structure
+
+```
+├── images
+├── README.md
+├── presentation.pdf
+└── notebook.ipynb
+``` 
 
 
