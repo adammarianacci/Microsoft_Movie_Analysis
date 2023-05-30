@@ -26,7 +26,7 @@ Imported neccessary libraries such as pandas and numPy etc. I loaded all the fil
 I ran some code to dive deeper into the analysis using visualizations to gain a better understanding of relationships between the data. I graphed histograms of some descriptive statistics of certain dataframes. I also graphed scatter plots and imported the library Seaborn to help create aesthethically pleasing visuals. I also used pair plots to help understand relationships between columns in dataframes to gain a better insight into the data to help draw some conclusions. 
 
 ![Budget Gross](images/budget_wgross.jpg)
-![Release Date](images/ReleaseDate.png)
+![Release Date](images/Release Date.png)
 ![Action and Adventure](images/Action_Adventure.png)
 
 
