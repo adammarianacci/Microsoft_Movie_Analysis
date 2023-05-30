@@ -25,6 +25,11 @@ Imported neccessary libraries such as pandas and numPy etc. I loaded all the fil
 
 I ran some code to dive deeper into the analysis using visualizations to gain a better understanding of relationships between the data. I graphed histograms of some descriptive statistics of certain dataframes. I also graphed scatter plots and imported the library Seaborn to help create aesthethically pleasing visuals. I also used pair plots to help understand relationships between columns in dataframes to gain a better insight into the data to help draw some conclusions. 
 
+![Budget Gross](images/budget_wgross.jpg)
+![Release Date](images/ReleaseDate.png)
+![Action and Adventure](images/Action_Adventure.png)
+
+
 # Conclusion
 
 Through my analysis I found that the most popular movies in the box office over the past 10 years have been in the genre's of "Action" and "Adventure" (the most popular being "Action").
@@ -41,7 +46,6 @@ Based on my findings I would recommend that Microsoft should create movies that 
 I would recommend that Microsoft be prepared to investment more money into the production budget. Higher production budgets are more likely to lead to a higher grossing film. 
 
 Hiring a top director such as James Cameron (who has been proven to create the highest grossing films) would be highly beneficial in creating a potential best selling/successful movie. 
-
 
 
 ## Limitations
