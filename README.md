@@ -15,7 +15,8 @@ Each dataset used in this project contains thousands of entries. The datasets ar
 
 They contain data such as movie titles/release date/domestic and worldwide gross/popularity and genre to name a few. The data used in this research is suitable for the project because it contains various information that shows what movies are doing or have done the best in the box office.
 
-The 
+The main Worldwide gross dataframe used consisted of 5,782 entries. 
+The main Popularity dataframe used consisted of 26,517 entries. 
 
 
 
