@@ -46,7 +46,7 @@ Director James Cameron had the 2 highest grossing movies according to the movie 
 
 Based on my findings I would recommend that Microsoft should create movies that are within the "Action" and "Adventure" genres as they have produced the highest grossing films. 
 
-I would recommend that Microsoft be prepared to investment more money into the production budget. Higher production budgets are more likely to lead to a higher grossing film. 
+I would recommend that Microsoft be prepared to invest more money into the production budget. Higher production budgets are more likely to lead to a higher grossing film. 
 
 Hiring a top director such as James Cameron (who has been proven to create the highest grossing films) would be highly beneficial in creating a potential best selling/successful movie. 
 
