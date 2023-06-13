@@ -48,7 +48,7 @@ Based on my findings I would recommend that Microsoft should create movies that 
 
 I would recommend that Microsoft be prepared to invest more money into the production budget. Higher production budgets are more likely to lead to a higher grossing film. 
 
-Hiring a top director such as James Cameron (who has been proven to create the highest grossing films) would be highly beneficial in creating a potential best selling/successful movie. 
+Releasing a movie in the months of May, June, and July. 
 
 
 ## Limitations
